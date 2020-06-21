@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Evaluation TP 2020
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Dellahi
+Implementation-Vendor-Id: fr.ensim.interop
+Build-Jdk: 1.8.0_251
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/tp-eval-2020
+Created-By: Maven Integration for Eclipse
+
